@@ -12,9 +12,10 @@ the training distribution. No retraining or OOD data is required at calibration 
 - NYU Depth v2 (labeled subset, 1449 RGB-D pairs) — in-distribution, used for training
   and validation. Not included in the repo download via link: 
   https://horatio.cs.nyu.edu/mit/silberman/nyu_depth_v2/nyu_depth_v2_labeled.mat
+  put into notebook/data folder
 - KITTI (800 images) — out-of-distribution evaluation only. Link: 
    https://s3.eu-central-1.amazonaws.com/avg-kitti/data_scene_flow.zip
-  extract into data/kitti
+  extract into notebook/data/kitti
 
 ## Method
 
