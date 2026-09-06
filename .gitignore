@@ -1,2 +1,3 @@
 # datasets
-notebook/data
+notebook/data/*
+!notebook/data/.gitkeep
